@@ -3,10 +3,10 @@
   <channel>
     <title>Hyde</title>
     <description>An elegant open source and mobile first theme for &lt;a href=&quot;http://jekyllrb.com&quot; target=&quot;_blank&quot;&gt;Jekyll&lt;/a&gt;. Made by &lt;a href=&quot;https://twitter.com/mdo&quot; target=&quot;_blank&quot;&gt;@mdo&lt;/a&gt;.</description>
-    <link>http://andhyde.com/</link>
-    <atom:link href="http://andhyde.com/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 20 Aug 2015 17:11:55 -0400</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2015 17:11:55 -0400</lastBuildDate>
+    <link>http://haoyangz.github.io/</link>
+    <atom:link href="http://haoyangz.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 20 Aug 2015 17:36:34 -0400</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2015 17:36:34 -0400</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
     
       <item>
@@ -27,8 +27,8 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://github.com/jekyll/jekyll-help&quot;&gt;Jekyll’s dedicated Help repository&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Thu, 20 Aug 2015 12:47:21 -0400</pubDate>
-        <link>http://andhyde.com/jekyll/update/2015/08/20/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://andhyde.com/jekyll/update/2015/08/20/welcome-to-jekyll/</guid>
+        <link>http://haoyangz.github.io/jekyll/update/2015/08/20/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://haoyangz.github.io/jekyll/update/2015/08/20/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>
@@ -67,8 +67,8 @@
 &lt;p&gt;Find out more and &lt;a href=&quot;https://github.com/mdo/hyde&quot;&gt;download a copy&lt;/a&gt; today from GitHub.&lt;/p&gt;
 </description>
         <pubDate>Sat, 28 Dec 2013 00:00:00 -0500</pubDate>
-        <link>http://andhyde.com/2013/12/28/hello-world/</link>
-        <guid isPermaLink="true">http://andhyde.com/2013/12/28/hello-world/</guid>
+        <link>http://haoyangz.github.io/2013/12/28/hello-world/</link>
+        <guid isPermaLink="true">http://haoyangz.github.io/2013/12/28/hello-world/</guid>
         
         
       </item>
@@ -132,8 +132,8 @@
 &lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/mdo/hyde/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 07 Feb 2012 00:00:00 -0500</pubDate>
-        <link>http://andhyde.com/2012/02/07/example-content/</link>
-        <guid isPermaLink="true">http://andhyde.com/2012/02/07/example-content/</guid>
+        <link>http://haoyangz.github.io/2012/02/07/example-content/</link>
+        <guid isPermaLink="true">http://haoyangz.github.io/2012/02/07/example-content/</guid>
         
         
       </item>
@@ -149,8 +149,8 @@
 &lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Mon, 06 Feb 2012 00:00:00 -0500</pubDate>
-        <link>http://andhyde.com/2012/02/06/whats-jekyll/</link>
-        <guid isPermaLink="true">http://andhyde.com/2012/02/06/whats-jekyll/</guid>
+        <link>http://haoyangz.github.io/2012/02/06/whats-jekyll/</link>
+        <guid isPermaLink="true">http://haoyangz.github.io/2012/02/06/whats-jekyll/</guid>
         
         
       </item>
