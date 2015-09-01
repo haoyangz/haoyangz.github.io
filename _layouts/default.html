@@ -1,33 +1,24 @@
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+---
+layout: compress
+---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include head %}
+</head>
+<body id="top-of-page" class="{{ page.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include navigation %}
+	{% endunless %}
 
-  {% include head.html %}
+	{% include masthead %}
 
-  <body>
+	{{ content }}
 
-    <header class="masthead">
-      <div class="masthead-inner">
-        <h1>{{ site.title }}</h1>
-        <p class="lead">{{ site.description }}</p>
+	{% unless page.skip_boilerplate %}
+	{% include footer %}
+	{% endunless %}
 
-        <div class="colophon">
-          <ul class="colophon-links">
-            <li>
-              <a href="https://github.com/mdo/hyde/archive/v{{ site.version }}.zip">Download</a>
-            </li>
-            <li>
-              <a href="https://github.com/mdo/hyde">GitHub project</a>
-            </li>
-            <li>Currently v{{ site.version }}</li>
-          </ul>
-          <p>&copy; 2014. {{ site.author.name }} All rights reserved.</p>
-        </div>
-      </div>
-    </header>
-
-    <div class="content container">
-      {{ content }}
-    </div>
-
-  </body>
+	{% include footer_scripts %}
+</body>
 </html>
