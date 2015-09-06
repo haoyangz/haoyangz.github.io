@@ -3,22 +3,22 @@
   side: left
 
 - title: "Research"
-  url: "/research/"
+  url: "/blog/"
   side: left
   dropdown:
   - title: "Highlight1"
-    url: "/design/grid/"
+    url: "/design/PIQ/"
   - title: "Highlight2"
-    url: "/design/grid/"
+    url: "/design/PIQ/"
   - title: "Highlight3"
-    url: "/design/grid/"
+    url: "/design/PIQ/"
 
 - title: "Team"
   url: "/team/"
   side: left
   dropdown:
   - title: "Current Member"
-    url: "/design/header-full-width-image/"
+    url: "/team/"
   - title: "Alumni"
     url: "/design/header-image-pattern/"
 
@@ -27,7 +27,7 @@
   side: left
   dropdown:
   - title: "Complete"
-    url: "/changelog/"
+    url: "/publications/"
   - title: "Gallery"
     url: "/roadmap/"
   - title: "PubMed"
@@ -38,7 +38,7 @@
   side: left
   dropdown:
   - title: "Software"
-    url: "/blog/archive/"
+    url: "/resource/"
   - title: "Github"
     url: "/blog/archive/" 
 

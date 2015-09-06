@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/</id>
 	<title>Feeling Responsive</title>
-	<updated>2015-08-31T23:47:25-04:00</updated>
+	<updated>2015-09-06T18:48:54-04:00</updated>
 
 	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
 
@@ -26,6 +26,56 @@
 
 	<generator uri="http://jekyllrb.com" version="2.4.0">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/design/PIQ/</id>
+			<title>PIQ</title>
+			<link href="http://localhost:4000/design/PIQ/" rel="alternate" type="text/html" title="PIQ" />
+			<updated>2015-12-12T00:00:00-05:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary>Discovery of directional and nondirectional pioneer transcription factors by modeling Dnase profile magnitude and shape</summary>
+			<content type="html" xml:base="http://localhost:4000/design/PIQ/">&lt;p&gt;&lt;img src=&quot;http://localhost:4000/images/piq.png&quot; alt=&quot;alt text&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;We describe protein interaction quantitation (PIQ), 
+a computational method for modeling the magnitude and 
+shape of genome-wide DNase I hypersensitivity profiles to 
+identify transcription factor (TF) binding sites. Through the 
+use of machine-learning techniques, PIQ identified binding 
+sites for &amp;gt;700 TFs from one DNase I hypersensitivity analysis 
+followed by sequencing (DNase-seq) experiment with accuracy 
+comparable to that of chromatin immunoprecipitation followed 
+by sequencing (ChIP-seq). We applied PIQ to analyze 
+DNase-seq data from mouse embryonic stem cells 
+differentiating into prepancreatic and intestinal endoderm. 
+We identified 120 and experimentally validated eight ‘pioneer’ 
+TF families that dynamically open chromatin. Four pioneer 
+TF families only opened chromatin in one direction from their 
+motifs. Furthermore, we identified ‘settler’ TFs whose genomic 
+binding is principally governed by proximity to open chromatin. 
+Our results support a model of hierarchical TF binding in which 
+directional and nondirectional pioneer activity shapes the 
+chromatin landscape for population by settler TFs.&lt;/p&gt;
+</content>
+
+			
+				<category term="design" />
+			
+			
+
+			<published>2015-12-12T00:00:00-05:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/design/typography/</id>
@@ -1012,80 +1062,6 @@ image:
 			
 
 			<published>2014-10-08T00:00:00-04:00</published>
-		</entry>
-	
-		<entry>
-			<id>http://localhost:4000/design/gallery/</id>
-			<title>A Beautiful Gallery</title>
-			<link href="http://localhost:4000/design/gallery/" rel="alternate" type="text/html" title="A Beautiful Gallery" />
-			<updated>2014-09-15T00:00:00-04:00</updated>
-
-			
-				
-				<author>
-					
-						<name>Phlow</name>
-					
-					
-					
-						<uri>http://phlow.de/</uri>
-					
-				</author>
-			
-			<summary>Wanna create a responsive gallery to showcase your portfolio, recent photos or images? It&#39;s quite easy thanks to Foundation and &lt;a href=&#39;http://foundation.zurb.com/docs/components/clearing.html&#39;&gt;Clearing Lightbox&lt;/a&gt;.</summary>
-			<content type="html" xml:base="http://localhost:4000/design/gallery/">&lt;p&gt;You just need to choose a template like the &lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;&lt;code&gt;page&lt;/code&gt;&lt;/a&gt;- or &lt;a href=&quot;http://localhost:4000/design/page-fullwidth/&quot;&gt;&lt;code&gt;page-fullwidth&lt;/code&gt;&lt;/a&gt;-template and then use some foundation magic.
-&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;ul class=&quot;clearing-thumbs small-block-grid-3&quot; data-clearing=&quot;&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/unsplash_1.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://localhost:4000/images/unsplash_1_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/unsplash_2.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://localhost:4000/images/unsplash_2_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/unsplash_3.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://localhost:4000/images/unsplash_3_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/unsplash_4.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://localhost:4000/images/unsplash_4_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/unsplash_5.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://localhost:4000/images/unsplash_5_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://localhost:4000/images/unsplash_6.jpg&quot;&gt;&lt;img data-caption=&quot;All images by Unsplash.com&quot; class=&quot;th&quot; src=&quot;http://localhost:4000/images/unsplash_6_thumb.jpg&quot; /&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;clearing-lightbox-code&quot;&gt;Clearing Lightbox Code&lt;/h2&gt;
-
-&lt;p&gt;&lt;a href=&quot;http://foundation.zurb.com/docs/components/clearing.html&quot;&gt;Clearing Lightbox&lt;/a&gt; is so flexible especially when using the &lt;a href=&quot;http://foundation.zurb.com/docs/components/block_grid.html&quot;&gt;block grid&lt;/a&gt;. For extensive documentation visit the &lt;a href=&quot;http://foundation.zurb.com/docs/components/clearing.html&quot;&gt;foundation docs&lt;/a&gt;.&lt;/p&gt;
-
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;ul&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;clearing-thumbs small-block-grid-3&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-clearing&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/img&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-caption=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;caption 1&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/thumbnail&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/img&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-caption=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;caption 2&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/thumbnail&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
-  &lt;span class=&quot;nt&quot;&gt;&amp;lt;li&amp;gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/img&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-caption=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;caption 3&amp;quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&amp;quot;path/to/your/thumbnail&amp;quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/ul&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
-
-&lt;h2 class=&quot;t60&quot; id=&quot;other-post-formats&quot;&gt;Other Post Formats&lt;/h2&gt;
-
-&lt;ul class=&quot;side-nav&quot;&gt;
-
-  
-
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/gallery/&quot;&gt;Templates &amp;middot; &lt;strong&gt;A Beautiful Gallery&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/video/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Video Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-right-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post Right Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/page/&quot;&gt;Templates &amp;middot; &lt;strong&gt;The Post/Page Template&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-      &lt;li&gt;&lt;a href=&quot;http://localhost:4000/design/post-left-sidebar/&quot;&gt;Templates &amp;middot; &lt;strong&gt;Page/Post With Left Sidebar&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
-    
-
-  
-&lt;/ul&gt;
-
-</content>
-
-			
-				<category term="design" />
-			
-			
-				<category term="post format" />
-			
-
-			<published>2014-09-15T00:00:00-04:00</published>
 		</entry>
 	
 </feed>

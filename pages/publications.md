@@ -40,6 +40,40 @@ chromatin landscape for population by settler TFs.</font></p>
     </div><!-- /.medium-6.columns -->
 </div><!-- /.row -->
 
+<div class="row t60">
+
+
+    <div class="medium-8 columns b30">
+        <p><b>Discovery of directional and nondirectional pioneer 
+transcription factors by modeling Dnase profile magnitude and shape</b></p>
+        <p><font size="1">We describe protein interaction quantitation (PIQ), 
+a computational method for modeling the magnitude and 
+shape of genome-wide DNase I hypersensitivity profiles to 
+identify transcription factor (TF) binding sites. Through the 
+use of machine-learning techniques, PIQ identified binding 
+sites for >700 TFs from one DNase I hypersensitivity analysis 
+followed by sequencing (DNase-seq) experiment with accuracy 
+comparable to that of chromatin immunoprecipitation followed 
+by sequencing (ChIP-seq). We applied PIQ to analyze 
+DNase-seq data from mouse embryonic stem cells 
+differentiating into prepancreatic and intestinal endoderm. 
+We identified 120 and experimentally validated eight ‘pioneer’ 
+TF families that dynamically open chromatin. Four pioneer 
+TF families only opened chromatin in one direction from their 
+motifs. Furthermore, we identified ‘settler’ TFs whose genomic 
+binding is principally governed by proximity to open chromatin. 
+Our results support a model of hierarchical TF binding in which 
+directional and nondirectional pioneer activity shapes the 
+chromatin landscape for population by settler TFs.</font></p>
+    </div><!-- /.medium-6.columns -->
+    
+    <div class="medium-4 columns b30">
+        <img src="{{ site.url }}/images/piq.png" alt="">
+        <p> <font size="2">R. I. Sherwood, T. Hashimoto, C. W. O'Donnell, D. Lewis, A. A. Barkal, J. P. van Hoff, V. Karun, T. Jaakkola, D. K. Gifford. Nat Biotechnol. 2014 Feb;32(2):171-8. doi: 10.1038/nbt.2798. Epub 2014 Jan 19. </font></p>
+    </div><!-- /.medium-6.columns -->
+</div><!-- /.row -->
+
+
 
 
 

@@ -9,23 +9,23 @@ header:
   image_fullwidth: chromosomes.jpg
 widget1:
   title: "Highlight1"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  url: 'haoyangz.github.io/design/PIQ'
   image: piq.png
   text: 'We describe protein interaction quantitation (PIQ), 
 a computational method for modeling the magnitude and 
 shape of genome-wide DNase I hypersensitivity profiles to 
 identify transcription factor (TF) binding sites.'
 widget2:
-  title: "Highlight1"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  title: "Highlight2"
+  url: '{{ site.url }}/design/PIQ'
   image: piq.png
   text: 'We describe protein interaction quantitation (PIQ), 
 a computational method for modeling the magnitude and 
 shape of genome-wide DNase I hypersensitivity profiles to 
 identify transcription factor (TF) binding sites.'
 widget3:
-  title: "Highlight1"
-  url: 'http://phlow.github.io/feeling-responsive/info/'
+  title: "Highlight3"
+  url: '{{ site.url }}/design/PIQ'
   image: piq.png
   text: 'We describe protein interaction quantitation (PIQ), 
 a computational method for modeling the magnitude and 
