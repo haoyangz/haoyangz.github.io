@@ -1,0 +1,12 @@
+- url: /about
+  title: Home
+
+- url: /publication
+  title: Publication
+
+- url: /blog
+  title: Blog
+
+- url: /contact
+  title: Contact
+
