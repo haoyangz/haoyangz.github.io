@@ -8,6 +8,7 @@ More info on my [Google Scholar profile](https://scholar.google.com/citations?us
 ### Manuscript in review
 * Hashimoto T, Sherwood RI, Kang DD, Barkal AA, **Zeng H**, Emons BJM, Srinivasan S, Rajagopal N, Jaakkola T, and Gifford DK.  
  "A DNA code governs chromatin accessibility."
+
 * **Zeng H**, Edwards MD, and Gifford DK.  
 	"Convolutional Neural Network Architectures for Predicting DNA-Protein Binding. "
 
@@ -17,13 +18,11 @@ More info on my [Google Scholar profile](https://scholar.google.com/citations?us
 #### 2015
 * Gymrek M, Willems T, Guilmatre A, **Zeng H**,  Markus B,  Georgiev S, Daly MJ, Price AL, Pritchard J,  Sharp A and Erlich Y.   
 	"Abundant contribution of short tandem repeats to gene expression variation in humans".  
-	_Nature Genetics_ (In press)
-	[[bioRxiv]](http://biorxiv.org/content/early/2015/04/02/017459)
+	_Nature Genetics_. doi:10.1038/ng.3461. [[Journal]](http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3461.html)
 	
 * **Zeng H**, Hashimoto TB, Kang DD, and Gifford DK.  
 	"GERV: A statistical method for generative evaluation of regulatory variants for transcription factor binding".  
-	_Bioinformatics_ (In press)
-	[[Avance Access]](http://bioinformatics.oxfordjournals.org/content/early/2015/10/15/bioinformatics.btv565.abstract)
+	_Bioinformatics_. doi: 10.1093/bioinformatics/btv565 [[Journal]](http://bioinformatics.oxfordjournals.org/content/early/2015/11/05/bioinformatics.btv565)
 
 #### 2014
 * Bansal M, Yang J, Karan C, Menden MP, Costello JC, Tang H et al.  
@@ -33,7 +32,7 @@ More info on my [Google Scholar profile](https://scholar.google.com/citations?us
 
 * Sinha S, Tsang EK, **Zeng H**, Meister M, and Dill DL.   
 	"Mining TCGA data using Boolean implications".  
-	_PLoS ONE_ 9(7), e102119. [[Journal]](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0102119)
+	_PLoS ONE_ 9(7): e102119. [[Journal]](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0102119)
 
 #### 2012
 * **Zeng H**, Meister M, Sinha S, and Dill DL.   
