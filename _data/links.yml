@@ -1,4 +1,4 @@
-- url: /about
+- url: /
   title: Home
 
 - url: /publication
@@ -7,8 +7,6 @@
 - url: /blog
   title: Blog
 
-- url: https://github.com/haoyangz
-  title: GitHub
-- url: /contact
-  title: Contact
+- url: /project
+  title: Projects
 
