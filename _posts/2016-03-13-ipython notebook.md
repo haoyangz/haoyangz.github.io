@@ -7,7 +7,14 @@ Instead of calling "os.system" which hides the call back of the command, the cle
 
 ```
 cmd = 'ls -lrt'  ## The shell command you wish to execute
-%run $cmd
+callback = ! $cmd
+
+## Or simply
+callback = ! ls -lrt
+
+## If the command is to run another python script
+$cmd = 'anotherscript.py arg1 arg2'
+callback = %run $cmd 
 ``` 
 #### Logging
 When running some block of code that takes a long time, we wish to redirect the log to a file. This preserves the full log even if we close the notebook before the code finishes. The clean way to do this is still under investigation.
