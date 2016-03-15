@@ -22,7 +22,7 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/NG2015.png" width="90" height="120"></td>	<td width="600"> Gymrek M, Willems T, Guilmatre A, <b>Zeng H</b>,  Markus B,  Georgiev S, Daly MJ, Price AL, Pritchard J,  Sharp A and Erlich Y. 
 <br><b>Abundant contribution of short tandem repeats to gene expression variation in humans</b>
 <br>
-	<i>Nature Genetics</i>. doi:10.1038/ng.3461. <a href='http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3461.html'>[Journal]</a>
+	<i>Nature Genetics</i>, 48(1), 22–29.  <a href='http://www.nature.com/ng/journal/vaop/ncurrent/full/ng.3461.html'>[Journal]</a>
 
 	</td>
 	</tr>
@@ -34,7 +34,7 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/gerv-img2.jpg" width="90" height="120"></td>	<td width="600"> <b>Zeng H</b>, Hashimoto TB, Kang DD, and Gifford DK.   
 <br><b>GERV: A statistical method for generative evaluation of regulatory variants for transcription factor binding</b>
 <br>
-	<i>Bioinformatics</i>. doi: 10.1093/bioinformatics/btv565. <a href='http://bioinformatics.oxfordjournals.org/content/early/2015/11/05/bioinformatics.btv565'>[Journal]</a>
+	<i>Bioinformatics</i>, 32(4), 490-496. <a href='http://bioinformatics.oxfordjournals.org/content/early/2015/11/05/bioinformatics.btv565'>[Journal]</a>
 
 	</td>
 	</tr>
@@ -50,7 +50,7 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/nbt.3052-F2.jpg" width="90" height="120"></td>	<td width="600"> Bansal M, Yang J, Karan C, Menden MP, Costello JC, Tang H et al. 
 <br><b>A community computational challenge to predict the activity of pairs of compounds</b>
 <br>
-	<i>Nature Biotechnology</i>,32(12), 1213-1222. <a href='http://www.nature.com/nbt/journal/v32/n12/full/nbt.3052.html'>[Journal]</a>
+	<i>Nature Biotechnology</i>, 32(12), 1213-1222. <a href='http://www.nature.com/nbt/journal/v32/n12/full/nbt.3052.html'>[Journal]</a>
 
 	</td>
 	</tr>
