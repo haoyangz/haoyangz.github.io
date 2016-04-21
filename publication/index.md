@@ -9,11 +9,20 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 * Hashimoto T, Sherwood RI, Kang DD, Barkal AA, **Zeng H**, Emons BJM, Srinivasan S, Rajagopal N, Jaakkola T, and Gifford DK.  
  "A DNA code governs chromatin accessibility."
 
-* **Zeng H**, Edwards MD, and Gifford DK.  
-	"Convolutional Neural Network Architectures for Predicting DNA-Protein Binding. "
-
-
 ### Refereed Publications
+
+#### 2016
+<table style="width: 800px" class="style1" align="center">
+	<tr>
+	<td width="90" align="left">
+<img src="../images/ISMB2016.png" width="90" height="120"></td>	<td width="600"> <b>Zeng H</b>,  Edwards M, Liu G, and Gifford DK. 
+<br><b>Convolutional Neural Network Architectures for Predicting DNA-Protein Binding.</b>
+<br>
+	<i>Intelligent Systems for Molecular Biology</i> (ISMB), 2016
+
+	</td>
+	</tr>
+</table>
 
 #### 2015
 <table style="width: 800px" class="style1" align="center">
@@ -63,7 +72,7 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/journal.pone.0102119.g001.png" width="90" height="120"></td>	<td width="600"> Sinha S, Tsang EK, <b>Zeng H</b>, Meister M, and Dill DL.    
 <br><b>Mining TCGA data using Boolean implications</b>
 <br>
-	<i>PLoS ONE</i>. doi: 10.1093/bioinformatics/btv565. <a href='http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0102119'>[Journal]</a>
+	<i>PLOS ONE</i>. doi: 10.1093/bioinformatics/btv565. <a href='http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0102119'>[Journal]</a>
 
 	</td>
 	</tr>
@@ -75,3 +84,6 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 	<b>Integrative analysis of cancer data using Boolean implication networks</b>.  
 	_RECOMB SB/RG/DREAM, 2012_. [[poster]](http://www.mit.edu/~haoyangz/files/ugvrPoster.pdf)
 
+
+### Others
++ Best performance in [eQTL-causal SNPs challenge](https://genomeinterpretation.org/content/4-eQTL-causal_SNPs) in the fourth Critical Assessment of Genome Interpretation (CAGI4) prediction competition. (2016)
