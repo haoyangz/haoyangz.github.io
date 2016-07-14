@@ -19,6 +19,8 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <br><b>Convolutional Neural Network Architectures for Predicting DNA-Protein Binding.</b>
 <br>
 	<i>Intelligent Systems for Molecular Biology</i> (ISMB), 2016
+	<br>
+	<i>Bioinformatics,32(12):i121-i127.</i> <a href='http://bioinformatics.oxfordjournals.org/content/32/12/i121.short'>[Journal]</a>
 
 	</td>
 	</tr>
