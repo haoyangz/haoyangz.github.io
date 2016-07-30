@@ -5,13 +5,28 @@ title: Publication
 More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh_oAAAAJ&hl=en) profile.
 
 
-### Manuscript in review
-* Hashimoto T, Sherwood RI, Kang DD, Barkal AA, **Zeng H**, Emons BJM, Srinivasan S, Rajagopal N, Jaakkola T, and Gifford DK.  
- "A DNA code governs chromatin accessibility."
+
+
 
 ### Refereed Publications
 
 #### 2016
+<table style="width: 800px" class="style1" align="center">
+	<tr>
+	<td width="90" align="left">
+<img src="../images/SCM.png" width="90" height="120"></td>	<td width="600"> Hashimoto T, Sherwood RI, Kang DD, Barkal AA, <b>Zeng H</b>, Emons BJM, Srinivasan S, Rajagopal N, Jaakkola T, and Gifford DK.
+<br><b>A DNA code governs chromatin accessibility.</b>
+<br>
+
+	<i>Genome Research</i>, doi:
+10.1101/gr.199778.115</i> <a href='http://genome.cshlp.org/content/early/2016/07/25/gr.199778.115.abstract'>[Journal]</a>
+
+	</td>
+	</tr>
+</table>
+
+
+
 <table style="width: 800px" class="style1" align="center">
 	<tr>
 	<td width="90" align="left">
@@ -20,7 +35,7 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <br>
 	<i>Intelligent Systems for Molecular Biology</i> (ISMB), 2016
 	<br>
-	<i>Bioinformatics,32(12):i121-i127.</i> <a href='http://bioinformatics.oxfordjournals.org/content/32/12/i121.short'>[Journal]</a>
+	<i>Bioinformatics</i>, 32(12):i121-i127.<a href='http://bioinformatics.oxfordjournals.org/content/32/12/i121.short'>[Journal]</a>
 
 	</td>
 	</tr>
