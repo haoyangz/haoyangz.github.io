@@ -4,9 +4,12 @@ title: Publication
 ---
 More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh_oAAAAJ&hl=en) profile.
 
+### Manuscript under review
+* **Zeng H**, Edwards MD, Guo Y, and Gifford DK. 
 
+	**Accurate eQTL prioritization with an ensemble-based framework**. [[bioRxiv](http://biorxiv.org/content/early/2016/08/16/069757)]
 
-
+<br>
 
 ### Refereed Publications
 
@@ -17,9 +20,8 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/SCM.png" width="90" height="120"></td>	<td width="600"> Hashimoto T, Sherwood RI, Kang DD, Barkal AA, <b>Zeng H</b>, Emons BJM, Srinivasan S, Rajagopal N, Jaakkola T, and Gifford DK.
 <br><b>A DNA code governs chromatin accessibility.</b>
 <br>
-
 	<i>Genome Research</i>, doi:
-10.1101/gr.199778.115</i> <a href='http://genome.cshlp.org/content/early/2016/07/25/gr.199778.115.abstract'>[Journal]</a>
+10.1101/gr.199778.115 <a href='http://genome.cshlp.org/content/early/2016/07/25/gr.199778.115.abstract'>[Journal]</a>
 
 	</td>
 	</tr>
