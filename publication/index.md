@@ -9,6 +9,9 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 
 	**Accurate eQTL prioritization with an ensemble-based framework**. [[bioRxiv](http://biorxiv.org/content/early/2016/08/16/069757)]
 
+* **Zeng H**, Gifford DK.
+
+	**Discovering DNA motifs and genomic variants associated with DNA methylation**. [[bioRxiv](http://biorxiv.org/content/early/2016/09/06/073809)]
 <br>
 
 ### Refereed Publications
