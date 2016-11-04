@@ -14,6 +14,10 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 	**Discovering DNA motifs and genomic variants associated with DNA methylation**. [[bioRxiv](http://biorxiv.org/content/early/2016/09/06/073809)]
 <br>
 
+* Guo Y, **Zeng H**, Tian K, Gifford DK.
+
+	**K-mer Set Memory (KSM) motif representation enables accurate prediction of the impact of regulatory variants**
+
 ### Refereed Publications
 
 #### 2016
