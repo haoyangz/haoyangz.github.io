@@ -2,7 +2,7 @@
 layout: page
 title: Publication
 ---
-More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh_oAAAAJ&hl=en) profile.
+More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh_oAAAAJ&hl=en) profile.
 
 ### Manuscript under review
 * **Zeng H**, Edwards MD, Guo Y, and Gifford DK. 
@@ -11,12 +11,10 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 
 * **Zeng H**, Gifford DK.
 
-	**Discovering DNA motifs and genomic variants associated with DNA methylation**. [[bioRxiv](http://biorxiv.org/content/early/2016/09/06/073809)]
+	**Predicting the impact of non-coding variants on DNA methylation**. [[bioRxiv](http://biorxiv.org/content/early/2016/12/15/073809)]
 <br>
 
-* Guo Y, **Zeng H**, Tian K, Gifford DK.
 
-	**K-mer Set Memory (KSM) motif representation enables accurate prediction of the impact of regulatory variants**
 
 ### Refereed Publications
 
@@ -24,11 +22,24 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <table style="width: 800px" class="style1" align="center">
 	<tr>
 	<td width="90" align="left">
+<img src="../images/SCM.png" width="90" height="120"></td>	<td width="600"> Guo Y, Tian K, <b>Zeng H</b>, and Gifford DK.
+<br><b>K-mer Set Memory (KSM) motif representation enables accurate prediction of the impact of regulatory variants.</b>
+<br>
+	<i>The 21st Annual International Conference on Research in Computational Molecular Biology (RECOMB), 2017</i>
+
+	</td>
+	</tr>
+</table>
+
+
+	
+<table style="width: 800px" class="style1" align="center">
+	<tr>
+	<td width="90" align="left">
 <img src="../images/SCM.png" width="90" height="120"></td>	<td width="600"> Hashimoto T, Sherwood RI, Kang DD, Barkal AA, <b>Zeng H</b>, Emons BJM, Srinivasan S, Rajagopal N, Jaakkola T, and Gifford DK.
 <br><b>A DNA code governs chromatin accessibility.</b>
 <br>
-	<i>Genome Research</i>, doi:
-10.1101/gr.199778.115 <a href='http://genome.cshlp.org/content/early/2016/07/25/gr.199778.115.abstract'>[Journal]</a>
+	<i>Genome Research</i>, 26(10), 1430-1440 <a href='http://genome.cshlp.org/content/early/2016/07/25/gr.199778.115.abstract'>[Journal]</a>
 
 	</td>
 	</tr>
@@ -44,7 +55,7 @@ More info on my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <br>
 	<i>Intelligent Systems for Molecular Biology</i> (ISMB), 2016
 	<br>
-	<i>Bioinformatics</i>, 32(12):i121-i127.<a href='http://bioinformatics.oxfordjournals.org/content/32/12/i121.short'>[Journal]</a>
+	<i>Bioinformatics</i>, 32(12), i121-i127.<a href='http://bioinformatics.oxfordjournals.org/content/32/12/i121.short'>[Journal]</a>
 
 	</td>
 	</tr>
