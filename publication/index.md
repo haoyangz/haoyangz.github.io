@@ -18,6 +18,21 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <table style="width: 800px" class="style1" align="center">
 	<tr>
 	<td width="90" align="left">
+<img src="../images/cagi.jpg" width="90" height="120"></td>	<td width="600"> Kreimer A, <b>Zeng H</b>, Edwards MD, Guo Y, Tian K, Shin S, Welch R, Wainberg M, Mohan R, Sinnott-Armstrong NA, Li Y, Eraslan G, AMIN TB, Goke J, Mueller NS, Kellis M, Kundaje A, Beer MA, Keles S, Gifford DK and Yosef N.  
+<br><b>Predicting gene expression in massively parallele reporter assays: a comparative study </b>
+<br>
+	<i>Human Mutation (to appear)</i>
+
+	</td>
+	</tr>
+</table>
+
+
+
+
+<table style="width: 800px" class="style1" align="center">
+	<tr>
+	<td width="90" align="left">
 <img src="../images/cagi.jpg" width="90" height="120"></td>	<td width="600"> <b>Zeng H</b>, Edwards MD, Guo Y, and Gifford DK.
 <br><b>Accurate eQTL prioritization with an ensemble-based framework.</b>
 <br>
