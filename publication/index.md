@@ -5,10 +5,6 @@ title: Publication
 More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh_oAAAAJ&hl=en) profile.
 
 ### Manuscript under review
-* **Zeng H**, Edwards MD, Guo Y, and Gifford DK. 
-
-	**Accurate eQTL prioritization with an ensemble-based framework**. [[bioRxiv](http://biorxiv.org/content/early/2016/08/16/069757)]
-
 * **Zeng H**, Gifford DK.
 
 	**Predicting the impact of non-coding variants on DNA methylation**. [[bioRxiv](http://biorxiv.org/content/early/2016/12/15/073809)]
@@ -17,6 +13,20 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 
 
 ### Refereed Publications
+
+#### 2017
+<table style="width: 800px" class="style1" align="center">
+	<tr>
+	<td width="90" align="left">
+<img src="../images/cagi.jpg" width="90" height="120"></td>	<td width="600"> <b>Zeng H</b>, Edwards MD, Guo Y, and Gifford DK.
+<br><b>Predicting the impact of non-coding variants on DNA methylation.</b>
+<br>
+	<i>Human Mutation (to appear)</i>
+
+	</td>
+	</tr>
+</table>
+
 
 #### 2016
 <table style="width: 800px" class="style1" align="center">
