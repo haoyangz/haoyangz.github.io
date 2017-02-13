@@ -19,7 +19,7 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 	<tr>
 	<td width="90" align="left">
 <img src="../images/cagi.jpg" width="90" height="120"></td>	<td width="600"> <b>Zeng H</b>, Edwards MD, Guo Y, and Gifford DK.
-<br><b>Predicting the impact of non-coding variants on DNA methylation.</b>
+<br><b>Accurate eQTL prioritization with an ensemble-based framework.</b>
 <br>
 	<i>Human Mutation (to appear)</i>
 
@@ -32,7 +32,7 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <table style="width: 800px" class="style1" align="center">
 	<tr>
 	<td width="90" align="left">
-<img src="../images/SCM.png" width="90" height="120"></td>	<td width="600"> Guo Y, Tian K, <b>Zeng H</b>, and Gifford DK.
+<img src="../images/ksm.png" width="90" height="120"></td>	<td width="600"> Guo Y, Tian K, <b>Zeng H</b>, and Gifford DK.
 <br><b>K-mer Set Memory (KSM) motif representation enables accurate prediction of the impact of regulatory variants.</b>
 <br>
 	<i>The 21st Annual International Conference on Research in Computational Molecular Biology (RECOMB), 2017</i>
