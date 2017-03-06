@@ -4,31 +4,31 @@ title: Publication
 ---
 More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh_oAAAAJ&hl=en) profile.
 
-### Manuscript under review
-* **Zeng H**, Gifford DK.
-
-	**Predicting the impact of non-coding variants on DNA methylation**. [[bioRxiv](http://biorxiv.org/content/early/2016/12/15/073809)]
-<br>
-
-
-
 ### Refereed Publications
 
 #### 2017
 <table style="width: 800px" class="style1" align="center">
 	<tr>
 	<td width="90" align="left">
-<img src="../images/cagi.jpg" width="90" height="120"></td>	<td width="600"> Kreimer A, <b>Zeng H</b>, Edwards MD, Guo Y, Tian K, Shin S, Welch R, Wainberg M, Mohan R, Sinnott-Armstrong NA, Li Y, Eraslan G, AMIN TB, Goke J, Mueller NS, Kellis M, Kundaje A, Beer MA, Keles S, Gifford DK and Yosef N.  
-<br><b>Predicting gene expression in massively parallele reporter assays: a comparative study </b>
+<img src="../images/cagi.jpg" width="90" height="120"></td>	<td width="600"><b>Zeng H</b>, Gifford DK.
+<br><b>Predicting the impact of non-coding variants on DNA methylation</b>
 <br>
-	<i>Human Mutation (to appear)</i>
-
+	<i>Nucleic Acid Research</i> (to appear)
 	</td>
 	</tr>
 </table>
 
+<table style="width: 800px" class="style1" align="center">
+	<tr>
+	<td width="90" align="left">
+<img src="../images/cagi.jpg" width="90" height="120"></td>	<td width="600"> Kreimer A, <b>Zeng H</b>, Edwards MD, Guo Y, Tian K, Shin S, Welch R, Wainberg M, Mohan R, Sinnott-Armstrong NA, Li Y, Eraslan G, AMIN TB, Goke J, Mueller NS, Kellis M, Kundaje A, Beer MA, Keles S, Gifford DK and Yosef N.  
+<br><b>Predicting gene expression in massively parallele reporter assays: a comparative study </b>
+<br>
+	<i>Human Mutation</i> <a href='http://onlinelibrary.wiley.com/doi/10.1002/humu.23197/abstract'>[Journal]</a>
 
-
+	</td>
+	</tr>
+</table>
 
 <table style="width: 800px" class="style1" align="center">
 	<tr>
@@ -36,7 +36,7 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/cagi.jpg" width="90" height="120"></td>	<td width="600"> <b>Zeng H</b>, Edwards MD, Guo Y, and Gifford DK.
 <br><b>Accurate eQTL prioritization with an ensemble-based framework.</b>
 <br>
-	<i>Human Mutation (to appear)</i>
+	<i>Human Mutation</i> <a href='http://onlinelibrary.wiley.com/doi/10.1002/humu.23198/abstract'>[Journal]</a>
 
 	</td>
 	</tr>
@@ -134,7 +134,7 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/journal.pone.0102119.g001.png" width="90" height="120"></td>	<td width="600"> Sinha S, Tsang EK, <b>Zeng H</b>, Meister M, and Dill DL.    
 <br><b>Mining TCGA data using Boolean implications</b>
 <br>
-	<i>PLOS ONE</i>. doi: 10.1093/bioinformatics/btv565. <a href='http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0102119'>[Journal]</a>
+	<i>PLOS ONE</i>, 9(7): e102119.  <a href='http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0102119'>[Journal]</a>
 
 	</td>
 	</tr>
