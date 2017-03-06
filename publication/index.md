@@ -10,22 +10,10 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <table style="width: 800px" class="style1" align="center">
 	<tr>
 	<td width="90" align="left">
-<img src="../images/cagi.jpg" width="90" height="120"></td>	<td width="600"><b>Zeng H</b>, Gifford DK.
+<img src="../images/cpgenie.png" width="90" height="120"></td>	<td width="600"><b>Zeng H</b>, Gifford DK.
 <br><b>Predicting the impact of non-coding variants on DNA methylation</b>
 <br>
-	<i>Nucleic Acid Research</i> (to appear)
-	</td>
-	</tr>
-</table>
-
-<table style="width: 800px" class="style1" align="center">
-	<tr>
-	<td width="90" align="left">
-<img src="../images/cagi.jpg" width="90" height="120"></td>	<td width="600"> Kreimer A, <b>Zeng H</b>, Edwards MD, Guo Y, Tian K, Shin S, Welch R, Wainberg M, Mohan R, Sinnott-Armstrong NA, Li Y, Eraslan G, AMIN TB, Goke J, Mueller NS, Kellis M, Kundaje A, Beer MA, Keles S, Gifford DK and Yosef N.  
-<br><b>Predicting gene expression in massively parallele reporter assays: a comparative study </b>
-<br>
-	<i>Human Mutation</i> <a href='http://onlinelibrary.wiley.com/doi/10.1002/humu.23197/abstract'>[Journal]</a>
-
+	<i>Nucleic Acid Research</i> (to appear) <a href='http://biorxiv.org/content/early/2016/12/15/073809'>[bioRxiv]</a>
 	</td>
 	</tr>
 </table>
@@ -43,21 +31,19 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 </table>
 
 
-#### 2016
 <table style="width: 800px" class="style1" align="center">
 	<tr>
 	<td width="90" align="left">
-<img src="../images/ksm.png" width="90" height="120"></td>	<td width="600"> Guo Y, Tian K, <b>Zeng H</b>, and Gifford DK.
-<br><b>K-mer Set Memory (KSM) motif representation enables accurate prediction of the impact of regulatory variants.</b>
+<img src="../images/cagi-anat.png" width="90" height="120"></td>	<td width="600"> Kreimer A, <b>Zeng H</b>, Edwards MD, Guo Y, Tian K, Shin S, Welch R, Wainberg M, Mohan R, Sinnott-Armstrong NA, Li Y, Eraslan G, AMIN TB, Goke J, Mueller NS, Kellis M, Kundaje A, Beer MA, Keles S, Gifford DK and Yosef N.  
+<br><b>Predicting gene expression in massively parallele reporter assays: a comparative study </b>
 <br>
-	<i>The 21st Annual International Conference on Research in Computational Molecular Biology (RECOMB), 2017</i>
+	<i>Human Mutation</i> <a href='http://onlinelibrary.wiley.com/doi/10.1002/humu.23197/abstract'>[Journal]</a>
 
 	</td>
 	</tr>
 </table>
 
-
-	
+#### 2016
 <table style="width: 800px" class="style1" align="center">
 	<tr>
 	<td width="90" align="left">
@@ -85,6 +71,19 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 	</td>
 	</tr>
 </table>
+
+<table style="width: 800px" class="style1" align="center">
+	<tr>
+	<td width="90" align="left">
+<img src="../images/ksm.png" width="90" height="120"></td>	<td width="600"> Guo Y, Tian K, <b>Zeng H</b>, and Gifford DK.
+<br><b>K-mer Set Memory (KSM) motif representation enables accurate prediction of the impact of regulatory variants.</b>
+<br>
+	<i>The 21st Annual International Conference on Research in Computational Molecular Biology (RECOMB), 2017</i>
+
+	</td>
+	</tr>
+</table>
+
 
 #### 2015
 <table style="width: 800px" class="style1" align="center">
