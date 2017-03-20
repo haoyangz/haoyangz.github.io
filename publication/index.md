@@ -13,7 +13,7 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/cpgenie.png" width="90" height="120"></td>	<td width="600"><b>Zeng H</b>, Gifford DK.
 <br><b>Predicting the impact of non-coding variants on DNA methylation</b>
 <br>
-	<i>Nucleic Acid Research</i> (to appear) <a href='http://biorxiv.org/content/early/2016/12/15/073809'>[bioRxiv]</a>
+	<i>Nucleic Acid Research</i> <a href='https://academic.oup.com/nar/article/3072752/Predicting'>[Journal]</a>
 	</td>
 	</tr>
 </table>
