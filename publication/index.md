@@ -11,9 +11,9 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 	<tr>
 	<td width="90" align="left">
 <img src="../images/cpgenie.png" width="90" height="120"></td>	<td width="600"><b>Zeng H</b>, Gifford DK.
-<br><b>Predicting the impact of non-coding variants on DNA methylation</b>
+<br><b>Predicting the impact of non-coding variants on DNA methylation.</b>
 <br>
-	<i>Nucleic Acid Research</i> <a href='https://academic.oup.com/nar/article/3072752/Predicting'>[Journal]</a>
+	<i>Nucleic Acids Res</i>, 45 (11): e99 <a href='https://academic.oup.com/nar/article/3072752/Predicting'>[Journal]</a>
 	</td>
 	</tr>
 </table>
