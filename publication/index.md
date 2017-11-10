@@ -4,9 +4,27 @@ title: Publication
 ---
 More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh_oAAAAJ&hl=en) profile.
 
+### Preprints
+
+- Constantinos D&ast;, Ilyas A&ast;, Syrgkanis V&ast;, and **Zeng H**&ast;. "Training GANs with Optimism." [[arXiv](https://arxiv.org/abs/1711.00141)]
+- Liu G, **Zeng H**, and Gifford DK. "Hierarchical Visualization of Genomic Deep Neural Networks Reveals Sequence Features and their Interactions".
+
 ### Refereed Publications
 
 #### 2017
+
+<table style="width: 800px" class="style1" align="center">
+	<tr>
+	<td width="90" align="left">
+<img src="../images/ksm.png" width="90" height="120"></td>	<td width="600">Guo Y, Tian K, <b>Zeng H</b>, and Gifford DK.
+<br><b>K-mer Set Memory (KSM) Motif Representation Enables Accurate Prediction of the Impact of Regulatory Variants.</b>
+<br>
+	<i>Research in Computational Molecular Biology</i> (RECOMB), p. 372. Springer, 2017 <a href='https://link.springer.com/book/10.1007/978-3-319-56970-3#page=387'>[Proceedings]</a><a href='https://www.biorxiv.org/content/early/2017/06/26/130815'>[bioRxiv]</a>
+	</td>
+	</tr>
+</table>
+
+
 <table style="width: 800px" class="style1" align="center">
 	<tr>
 	<td width="90" align="left">
@@ -78,7 +96,9 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/ksm.png" width="90" height="120"></td>	<td width="600"> Guo Y, Tian K, <b>Zeng H</b>, and Gifford DK.
 <br><b>K-mer Set Memory (KSM) motif representation enables accurate prediction of the impact of regulatory variants.</b>
 <br>
-	<i>The 21st Annual International Conference on Research in Computational Molecular Biology (RECOMB), 2017</i>
+	<i>Research in Computational Molecular Biology</i> (RECOMB), p. 372. Springer, 2017
+<br>
+<a href='https://link.springer.com/book/10.1007/978-3-319-56970-3#page=387'>[Proceedings]</a> <a href='https://www.biorxiv.org/content/early/2017/06/26/130815'>[bioRxiv]</a>
 
 	</td>
 	</tr>
