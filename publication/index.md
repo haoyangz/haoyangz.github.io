@@ -11,16 +11,18 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 ### Refereed Publications
 
 #### 2018
+
 <table style="width: 800px" class="style1" align="center">
-	<tr>
-	<td width="90" align="left">
-<img src="../images/CIFAR10.png" width="90" height="120"></td>	<td width="600">Constantinos D&ast;, Ilyas A&ast;, Syrgkanis V&ast;, and <b>Zeng H</b>&ast; .
+    <tr>
+    <td width="90" align="left">
+<img src="../images/CIFAR10.png" width="90" height="120"></td>  <td width="600">Constantinos D&ast;, Ilyas A&ast;, Syrgkanis V&ast;, and <b>Zeng H</b>&ast; .
 <br><b>Training GANs with Optimism</b>
 <br>
-	<i>International Conference on Learning Representations (ICLR),  2018 </a><a href='https://arxiv.org/abs/1711.001415'>[arXiv]</a>
-	</td>
-	</tr>
+    <i>International Conference on Learning Representations</i> (ICLR),  2018.<a href='https://arxiv.org/abs/1711.00141'>[arXiv]</a>
+    </td>
+    </tr>
 </table>
+
 
 #### 2017
 
@@ -30,7 +32,7 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/ksm.png" width="90" height="120"></td>	<td width="600">Guo Y, Tian K, <b>Zeng H</b>, and Gifford DK.
 <br><b>K-mer Set Memory (KSM) Motif Representation Enables Accurate Prediction of the Impact of Regulatory Variants.</b>
 <br>
-	<i>Research in Computational Molecular Biology</i> (RECOMB), p. 372. Springer, 2017 <a href='https://link.springer.com/book/10.1007/978-3-319-56970-3#page=387'>[Proceedings]</a><a href='https://www.biorxiv.org/content/early/2017/06/26/130815'>[bioRxiv]</a>
+	<i>Research in Computational Molecular Biology</i> (RECOMB), p. 372. Springer, 2017. <a href='https://link.springer.com/book/10.1007/978-3-319-56970-3#page=387'>[Proceedings]</a><a href='https://www.biorxiv.org/content/early/2017/06/26/130815'>[bioRxiv]</a>
 	</td>
 	</tr>
 </table>
@@ -42,7 +44,7 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/cpgenie.png" width="90" height="120"></td>	<td width="600"><b>Zeng H</b>, Gifford DK.
 <br><b>Predicting the impact of non-coding variants on DNA methylation.</b>
 <br>
-	<i>Nucleic Acids Res</i>, 45 (11): e99 <a href='https://academic.oup.com/nar/article/3072752/Predicting'>[Journal]</a>
+	<i>Nucleic Acids Res</i>, 45 (11): e99. <a href='https://academic.oup.com/nar/article/3072752/Predicting'>[Journal]</a>
 	</td>
 	</tr>
 </table>
@@ -53,7 +55,7 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/cagi.jpg" width="90" height="120"></td>	<td width="600"> <b>Zeng H</b>, Edwards MD, Guo Y, and Gifford DK.
 <br><b>Accurate eQTL prioritization with an ensemble-based framework.</b>
 <br>
-	<i>Human Mutation</i> <a href='http://onlinelibrary.wiley.com/doi/10.1002/humu.23198/abstract'>[Journal]</a>
+	<i>Human Mutation</i>, 38(9), 1259-1265. <a href='http://onlinelibrary.wiley.com/doi/10.1002/humu.23198/abstract'>[Journal]</a>
 
 	</td>
 	</tr>
@@ -66,7 +68,7 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/cagi-anat.png" width="90" height="120"></td>	<td width="600"> Kreimer A, <b>Zeng H</b>, Edwards MD, Guo Y, Tian K, Shin S, Welch R, Wainberg M, Mohan R, Sinnott-Armstrong NA, Li Y, Eraslan G, AMIN TB, Goke J, Mueller NS, Kellis M, Kundaje A, Beer MA, Keles S, Gifford DK and Yosef N.  
 <br><b>Predicting gene expression in massively parallele reporter assays: a comparative study </b>
 <br>
-	<i>Human Mutation</i> <a href='http://onlinelibrary.wiley.com/doi/10.1002/humu.23197/abstract'>[Journal]</a>
+	<i>Human Mutation</i>, 38(9), 1240-1250. <a href='http://onlinelibrary.wiley.com/doi/10.1002/humu.23197/abstract'>[Journal]</a>
 
 	</td>
 	</tr>
@@ -79,7 +81,7 @@ More info in my [Google Scholar](https://scholar.google.com/citations?user=5z2rh
 <img src="../images/SCM.png" width="90" height="120"></td>	<td width="600"> Hashimoto T, Sherwood RI, Kang DD, Barkal AA, <b>Zeng H</b>, Emons BJM, Srinivasan S, Rajagopal N, Jaakkola T, and Gifford DK.
 <br><b>A DNA code governs chromatin accessibility.</b>
 <br>
-	<i>Genome Research</i>, 26(10), 1430-1440 <a href='http://genome.cshlp.org/content/early/2016/07/25/gr.199778.115.abstract'>[Journal]</a>
+	<i>Genome Research</i>, 26(10), 1430-1440. <a href='http://genome.cshlp.org/content/early/2016/07/25/gr.199778.115.abstract'>[Journal]</a>
 
 	</td>
 	</tr>
